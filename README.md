@@ -12,6 +12,7 @@ The Hospital Network Design project demonstrates the deployment of a network tha
 - Networking Protocols (TCP/IP, DHCP, etc.)
 
 ## Network Topology
+![yahoo](https://github.com/user-attachments/assets/9b3f4c0c-e0bd-43dc-84a2-97aa8120a263)
 
 ## Installation
 1. Download and install [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer).
